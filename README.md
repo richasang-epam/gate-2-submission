@@ -27,7 +27,7 @@ The short answer: one work stream qualifies for agent-led handling on day one. T
 | D4 | [Deliverables/D4-agent-purpose-document.md](Deliverables/D4-agent-purpose-document.md) | Full spec for the ETA agent: scope, autonomy rules, escalation triggers, governance |
 | D5 | [Deliverables/D5-system-data-inventory.md](Deliverables/D5-system-data-inventory.md) | Every system mapped with availability, risk, and integration constraints |
 | D6 | [Deliverables/D6-discovery-questions.md](Deliverables/D6-discovery-questions.md) | Eleven questions that would materially change what gets built |
-| D7 | [apex-eta-agent/CLAUDE.md](apex-eta-agent/CLAUDE.md) | Working instruction file for an AI coding agent — the live project constraints |
+| D7 | [Deliverables/CLAUDE.md](apex-eta-agent/CLAUDE.md) | Working instruction file for an AI coding agent — the live project constraints |
 
 ---
 
