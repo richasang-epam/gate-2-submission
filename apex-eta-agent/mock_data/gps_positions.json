@@ -1,0 +1,66 @@
+[
+  {
+    "driver_id": "DRV-014",
+    "lat": 52.4751,
+    "lon": -1.8998,
+    "ping_age_minutes": 8,
+    "exception_flag": false,
+    "note": "Fresh GPS — autonomous mode"
+  },
+  {
+    "driver_id": "DRV-008",
+    "lat": 52.5001,
+    "lon": -1.8441,
+    "ping_age_minutes": 12,
+    "exception_flag": false,
+    "note": "Fresh GPS — autonomous mode (order has open dispute, will escalate)"
+  },
+  {
+    "driver_id": "DRV-022",
+    "lat": 52.4814,
+    "lon": -1.9041,
+    "ping_age_minutes": 15,
+    "exception_flag": false,
+    "note": "Fresh GPS — but order has CRM exception flag, will escalate"
+  },
+  {
+    "driver_id": "DRV-031",
+    "lat": 52.3862,
+    "lon": -1.9721,
+    "ping_age_minutes": 38,
+    "exception_flag": false,
+    "note": "Degraded GPS (38 min) — supervised mode with widened window"
+  },
+  {
+    "driver_id": "DRV-007",
+    "lat": 52.4561,
+    "lon": -1.9200,
+    "ping_age_minutes": 26,
+    "exception_flag": false,
+    "note": "Fresh GPS — autonomous (matches Artefact 3 from D5)"
+  },
+  {
+    "driver_id": "DRV-019",
+    "lat": 52.4921,
+    "lon": -1.8762,
+    "ping_age_minutes": 5,
+    "exception_flag": false,
+    "note": "Fresh GPS — but delivered_no_scan status, will escalate as missing parcel"
+  },
+  {
+    "driver_id": "DRV-002",
+    "lat": 52.4800,
+    "lon": -1.9010,
+    "ping_age_minutes": 72,
+    "exception_flag": false,
+    "note": "Stale GPS (72 min) — escalate to dispatcher, no ETA"
+  },
+  {
+    "driver_id": "DRV-011",
+    "lat": 52.5041,
+    "lon": -1.8631,
+    "ping_age_minutes": 19,
+    "exception_flag": true,
+    "note": "Fresh GPS but Driver App exception flag set — escalate"
+  }
+]

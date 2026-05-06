@@ -1,0 +1,24 @@
+[
+  {
+    "order_id": "AX-554-9921",
+    "customer_id": "C-04451",
+    "customer_name": "Hayes & Sons",
+    "dispute_ref": "D-2026-00342",
+    "dispute_type": "FUEL_SURCH_DAMAGE",
+    "status": "PENDING_CLAIM",
+    "amount_gbp": 170.00,
+    "opened_date": "2026-04-28",
+    "note": "3rd FUEL_SURCH_DAMAGE dispute for C-04451 in 2026 — systemic account issue"
+  },
+  {
+    "order_id": "AX-001-0099",
+    "customer_id": "C-09912",
+    "customer_name": "Northern Trade Supplies",
+    "dispute_ref": "D-2026-00298",
+    "dispute_type": "OVERCHARGE",
+    "status": "PENDING_REVIEW",
+    "amount_gbp": 85.50,
+    "opened_date": "2026-04-15",
+    "note": "Standard overcharge dispute"
+  }
+]
