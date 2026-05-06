@@ -134,8 +134,8 @@ gate-2-submission/
 │   ├── D4-agent-purpose-document.md
 │   ├── D5-system-data-inventory.md
 │   └── D6-discovery-questions.md
+|   ├── D7-CLAUDE.md                    # D7 — AI coding agent constraints
 ├── apex-eta-agent/                  # Runnable prototype
-│   ├── CLAUDE.md                    # D7 — AI coding agent constraints
 │   ├── app/agent/                   # Core pipeline modules
 │   ├── mock_data/                   # Orders, GPS positions, disputes
 │   ├── templates/ + static/         # Dashboard UI
